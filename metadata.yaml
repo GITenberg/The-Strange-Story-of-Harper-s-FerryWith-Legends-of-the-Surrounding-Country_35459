@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37694'
     url: http://www.gutenberg.org/2009/agents/37694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35459#The-Strange-Story-of-Harper-s-FerryWith-Legends-of-the-Surrounding-Country
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
