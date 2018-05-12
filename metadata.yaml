@@ -1,0 +1,27 @@
+_repo: The-Strange-Story-of-Harper-s-FerryWith-Legends-of-the-Surrounding-Country_35459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35459-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barry, Joseph
+    deathdate: 1905
+    gutenberg_agent_id: '37694'
+    url: http://www.gutenberg.org/2009/agents/37694
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harpers Ferry (W. Va.) -- History'
+- !lcc 'F206'
+- !lcsh 'Harpers Ferry (W. Va.) -- History -- John Brown''s Raid, 1859'
+title: The Strange Story of Harper's Ferry, with Legends of the Surrounding Country
+url: http://www.gutenberg.org/ebooks/35459
